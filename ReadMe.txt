@@ -30,7 +30,8 @@ F.Y.I - the program does request to make changes ( this prompt is needed inorder
 SteamBlockButBetter at an elevated level which inturn is required to make firewall rules to block steam)
 
 Set-up [
-	+ make sure you have python installed 
+	+ make sure you have python installed
+	+ ensure that the folder is un-zipped
 	+ Create a shortcut wherever you want to the python file "SteamBlock2.py" inside "NewBlock"
 	+ if its you first time running the program you might need to start a second time ( from then on
 	  out should work on first start )
